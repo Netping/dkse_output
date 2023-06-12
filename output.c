@@ -8,7 +8,7 @@
 #if MAIN_APP_OUT_PORT == 1
 #include "includes_base.h"
 #include "private_mib.h"
-#include "../main/output/output.h"
+#include "../dkse_output/output.h"
 #include "esp_flash.h"
 #include "esp_flash_spi_init.h"
 #include "esp_http_server.h"
